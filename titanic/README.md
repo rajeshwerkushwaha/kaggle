@@ -10,11 +10,10 @@ the 'test.csv' which is used to test the model.
 * *solution:* This folder contains the R program file and other visualizations which will help to understand the solution.
 
 
-**Note:**The actual problem is taken from [kaggle](https://www.kaggle.com/c/titanic)
+**Note:**The actual problem is taken from [kaggle](https://www.kaggle.com/c/titanic) and 
 Solution is inspired from [David Langer](https://github.com/EasyD/IntroToDataScience)
 
 *Useful Links to understand the solution:*
-*[https://www.youtube.com/watch?v=32o0DnuRjfg](https://www.youtube.com/watch?v=32o0DnuRjfg)
-*[https://www.youtube.com/watch?v=u6sahb7Hmog](https://www.youtube.com/watch?v=u6sahb7Hmog)
 
-
+* [https://www.youtube.com/watch?v=32o0DnuRjfg](https://www.youtube.com/watch?v=32o0DnuRjfg)
+* [https://www.youtube.com/watch?v=u6sahb7Hmog](https://www.youtube.com/watch?v=u6sahb7Hmog)
