@@ -1,4 +1,9 @@
-
+---
+title: "Analysis on baby names over 130 years data"
+author: "Rajesh Kumar"
+date: "Saturday, May 07, 2016"
+output: html_document
+---
 
 ```
 #read the baby names from year 1950
